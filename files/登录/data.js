@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"登录.html",
-  "generationDate":new Date(1488188169193.89),
+  "generationDate":new Date(1488188437267.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -55,7 +55,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/登录/regen/u0.jpg"}},
+            "normal~":"images/登录/u0.jpg"}},
 {
           "id":"2246ff8026804fdbb8ab6c9870c6489f",
           "label":"name",
@@ -195,6 +195,36 @@
                         "url":"注册.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"53332c3e8c9248edbfe7964381b48b21",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":40,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open index in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
           "tabbable":true}]}},
   "masters":{
 },
@@ -210,4 +240,6 @@
     "0a938ac680ca4cda8ce90ba6fdb01b35":{
       "scriptId":"u4"},
     "18a601d2f4b5418e8ff520738d5a0f12":{
-      "scriptId":"u5"}}});
+      "scriptId":"u5"},
+    "53332c3e8c9248edbfe7964381b48b21":{
+      "scriptId":"u6"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"搜帘宝.html",
-  "generationDate":new Date(1488187959720.6),
+  "generationDate":new Date(1488188437095.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
