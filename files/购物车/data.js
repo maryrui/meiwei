@@ -1,0 +1,210 @@
+﻿$axure.loadCurrentPage({
+  "url":"购物车.html",
+  "generationDate":new Date(1488187021118.12),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c0b43b2dcf0c462296ce2d415a6ee766",
+    "type":"Axure:Page",
+    "name":"购物车",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"50f773cf146c466dbeb6f169b7e6f290",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":375,
+              "height":667}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cf2c02a830b14e4c9c1a30a2636614c7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":375,
+                  "height":667}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购物车/u0.jpg"}},
+{
+          "id":"b84904f141e34e60983c2bf077a9b8c9",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":30},
+            "size":{
+              "width":340,
+              "height":140}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 详情 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"bc44b5c703bb475caf4ac86598f322d8",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":31,
+              "y":204},
+            "size":{
+              "width":340,
+              "height":140}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 详情 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"6951aa075d434a64b18c57de3bfdb37f",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":378},
+            "size":{
+              "width":340,
+              "height":140}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 详情 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"dadf06c394c647e09de856d65c9c401e",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":28,
+              "y":528},
+            "size":{
+              "width":340,
+              "height":81}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 详情 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"c7daa645951747c6855b058287023ed3",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":260,
+              "y":609},
+            "size":{
+              "width":111,
+              "height":58}},
+          "adaptiveStyles":{
+}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "50f773cf146c466dbeb6f169b7e6f290":{
+      "scriptId":"u0"},
+    "cf2c02a830b14e4c9c1a30a2636614c7":{
+      "scriptId":"u1"},
+    "b84904f141e34e60983c2bf077a9b8c9":{
+      "scriptId":"u2"},
+    "bc44b5c703bb475caf4ac86598f322d8":{
+      "scriptId":"u3"},
+    "6951aa075d434a64b18c57de3bfdb37f":{
+      "scriptId":"u4"},
+    "dadf06c394c647e09de856d65c9c401e":{
+      "scriptId":"u5"},
+    "c7daa645951747c6855b058287023ed3":{
+      "scriptId":"u6"}}});

@@ -1,0 +1,257 @@
+﻿$axure.loadCurrentPage({
+  "url":"晒单.html",
+  "generationDate":new Date(1488187020920.96),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"7d9144d12e17482ab69288197350aa0a",
+    "type":"Axure:Page",
+    "name":"晒单",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"93ca37e59244435db4f7cc56dbb89fb2",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":375,
+              "height":667}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c648c07098d14b52b24ce49c861f4b74",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":375,
+                  "height":667}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/晒单/u0.jpg"}},
+{
+          "id":"a5178acae7724e078473818edcf24441",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":40},
+            "size":{
+              "width":170,
+              "height":260}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 详情 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"73bee9fafdb441e5829025b9dbeafe7b",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":195,
+              "y":37},
+            "size":{
+              "width":170,
+              "height":260}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 详情 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"89063fed80734f3eaf61cca636295f68",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":193,
+              "y":308},
+            "size":{
+              "width":170,
+              "height":260}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 详情 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"9afd7d66a93241f287969d77c24a4e38",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":8,
+              "y":308},
+            "size":{
+              "width":170,
+              "height":260}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 详情 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"368744f2ea9c4b8dba9723f1f945b807",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":9,
+              "y":578},
+            "size":{
+              "width":170,
+              "height":89}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 详情 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"e31202eda95148fd82d937214c7140e5",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":196,
+              "y":579},
+            "size":{
+              "width":170,
+              "height":89}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 详情 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "93ca37e59244435db4f7cc56dbb89fb2":{
+      "scriptId":"u0"},
+    "c648c07098d14b52b24ce49c861f4b74":{
+      "scriptId":"u1"},
+    "a5178acae7724e078473818edcf24441":{
+      "scriptId":"u2"},
+    "73bee9fafdb441e5829025b9dbeafe7b":{
+      "scriptId":"u3"},
+    "89063fed80734f3eaf61cca636295f68":{
+      "scriptId":"u4"},
+    "9afd7d66a93241f287969d77c24a4e38":{
+      "scriptId":"u5"},
+    "368744f2ea9c4b8dba9723f1f945b807":{
+      "scriptId":"u6"},
+    "e31202eda95148fd82d937214c7140e5":{
+      "scriptId":"u7"}}});

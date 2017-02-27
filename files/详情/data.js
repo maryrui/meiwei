@@ -1,0 +1,234 @@
+﻿$axure.loadCurrentPage({
+  "url":"详情.html",
+  "generationDate":new Date(1488187020894.95),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c170608f18a04f69a03e258fc6860b70",
+    "type":"Axure:Page",
+    "name":"详情",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"fe8896f0f2a94f0ca9b4f7553ea58e3d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":375,
+              "height":666}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8b4315e5c07d486ea0aae76b7d389f79",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":375,
+                  "height":666}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/详情/u0.jpg"}},
+{
+          "id":"c7e8e77ecb224652bc5741dd2bfed83f",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":55,
+              "y":489},
+            "size":{
+              "width":90,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"4d7d803f068f439b8edf57bcab2dfa5e",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":252,
+              "y":490},
+            "size":{
+              "width":90,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"1b2f7c9aabf3419d81703f2f1ddb8b25",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":570},
+            "size":{
+              "width":190,
+              "height":31}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 图文详情 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"图文详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"9158ff818b754ecaa51ee4e80c9bafd0",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":621},
+            "size":{
+              "width":100,
+              "height":41}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 购物车 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"购物车.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"7e00136c947f4674b806ad7d84997bf1",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":129,
+              "y":624},
+            "size":{
+              "width":101,
+              "height":41}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 购物车 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"购物车.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"ca8cd710a4594a6bb6f729128835fd9f",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":325,
+              "y":621},
+            "size":{
+              "width":50,
+              "height":46}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Link in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "includeVariables":true},
+                      "linkType":"current"},
+{
+                      "action":"linkWindow",
+                      "description":"Open 购物车 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"购物车.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "fe8896f0f2a94f0ca9b4f7553ea58e3d":{
+      "scriptId":"u0"},
+    "8b4315e5c07d486ea0aae76b7d389f79":{
+      "scriptId":"u1"},
+    "c7e8e77ecb224652bc5741dd2bfed83f":{
+      "scriptId":"u2"},
+    "4d7d803f068f439b8edf57bcab2dfa5e":{
+      "scriptId":"u3"},
+    "1b2f7c9aabf3419d81703f2f1ddb8b25":{
+      "scriptId":"u4"},
+    "9158ff818b754ecaa51ee4e80c9bafd0":{
+      "scriptId":"u5"},
+    "7e00136c947f4674b806ad7d84997bf1":{
+      "scriptId":"u6"},
+    "ca8cd710a4594a6bb6f729128835fd9f":{
+      "scriptId":"u7"}}});

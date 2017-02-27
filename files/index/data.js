@@ -1,0 +1,387 @@
+﻿$axure.loadCurrentPage({
+  "url":"index.html",
+  "generationDate":new Date(1488187020864.92),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"3734a1b974834afc8e302f7962fc5466",
+    "type":"Axure:Page",
+    "name":"index",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6207891547114767b5937756189805f3",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":375,
+              "height":666}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9a30d433d0f2493fb51b123a23e960e0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":375,
+                  "height":666}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/index/u0.jpg"}},
+{
+          "id":"a6b9c40ac728416a92e8254d85e7dd6f",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":9},
+            "size":{
+              "width":250,
+              "height":31}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"08389bffa8774ea9941568237a7de621",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":20,
+              "y":214},
+            "size":{
+              "width":50,
+              "height":71}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 预算 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"预算.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"3e352592e9a04f488fdf9ed36a4a9467",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":113,
+              "y":214},
+            "size":{
+              "width":50,
+              "height":71}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 搜帘宝 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"搜帘宝.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"e567adcfb9864294ac8611b0c7bf8ba3",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":211,
+              "y":212},
+            "size":{
+              "width":50,
+              "height":71}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 优惠速递 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"优惠速递.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"1c2b032891d84489834753d42d37eafd",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":307,
+              "y":209},
+            "size":{
+              "width":50,
+              "height":71}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 晒单 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"晒单.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"bfe1ffabe89b49e8a4801e697592c995",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":308},
+            "size":{
+              "width":170,
+              "height":253}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 详情 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"692df1f5577e44ecbc7145fd8a716234",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":196,
+              "y":305},
+            "size":{
+              "width":170,
+              "height":253}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 详情 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"详情.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"854efc5172f140cc80d33b3e5900c88e",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":90,
+              "y":621},
+            "size":{
+              "width":40,
+              "height":45}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 分类 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"分类.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"557a991f33cd4aa1a336a6fa8b1ca143",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":169,
+              "y":622},
+            "size":{
+              "width":40,
+              "height":45}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"f3d1445f053e46f7962d76da199c3a0f",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":247,
+              "y":621},
+            "size":{
+              "width":40,
+              "height":45}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 购物车 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"购物车.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"cab6cb505f7b444a912750ed9fa3da61",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":327,
+              "y":621},
+            "size":{
+              "width":40,
+              "height":45}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 登录 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"登录.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "6207891547114767b5937756189805f3":{
+      "scriptId":"u0"},
+    "9a30d433d0f2493fb51b123a23e960e0":{
+      "scriptId":"u1"},
+    "a6b9c40ac728416a92e8254d85e7dd6f":{
+      "scriptId":"u2"},
+    "08389bffa8774ea9941568237a7de621":{
+      "scriptId":"u3"},
+    "3e352592e9a04f488fdf9ed36a4a9467":{
+      "scriptId":"u4"},
+    "e567adcfb9864294ac8611b0c7bf8ba3":{
+      "scriptId":"u5"},
+    "1c2b032891d84489834753d42d37eafd":{
+      "scriptId":"u6"},
+    "bfe1ffabe89b49e8a4801e697592c995":{
+      "scriptId":"u7"},
+    "692df1f5577e44ecbc7145fd8a716234":{
+      "scriptId":"u8"},
+    "854efc5172f140cc80d33b3e5900c88e":{
+      "scriptId":"u9"},
+    "557a991f33cd4aa1a336a6fa8b1ca143":{
+      "scriptId":"u10"},
+    "f3d1445f053e46f7962d76da199c3a0f":{
+      "scriptId":"u11"},
+    "cab6cb505f7b444a912750ed9fa3da61":{
+      "scriptId":"u12"}}});
