@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"预算.html",
-  "generationDate":new Date(1488439480320.96),
+  "generationDate":new Date(1488439924466.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
