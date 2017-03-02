@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"注册.html",
-  "generationDate":new Date(1488438989704.26),
+  "generationDate":new Date(1488439480485.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
