@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"登录.html",
-  "generationDate":new Date(1488188437267.03),
+  "generationDate":new Date(1488438989765.31),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -94,6 +94,29 @@
 {
                                 "exprType":"stringLiteral",
                                 "value":"",
+                                "stos":[]}]}]}}]}]},
+            "onLostFocus":{
+              "description":"OnLostFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set text on name equal to &quot;请输入用户名/邮箱&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["2246ff8026804fdbb8ab6c9870c6489f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"请输入用户名/邮箱",
                                 "stos":[]}]}]}}]}]}},
           "tabbable":true},
 {
@@ -134,6 +157,29 @@
 {
                                 "exprType":"stringLiteral",
                                 "value":"",
+                                "stos":[]}]}]}}]}]},
+            "onLostFocus":{
+              "description":"OnLostFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set text on password equal to &quot;请输入密码&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["0a3406b6b9c040dc9b6df24dadc56f7e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"请输入密码",
                                 "stos":[]}]}]}}]}]}},
           "tabbable":true},
 {

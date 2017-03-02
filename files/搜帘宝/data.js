@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"搜帘宝.html",
-  "generationDate":new Date(1488188437095.91),
+  "generationDate":new Date(1488438989560.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -111,10 +111,10 @@
             "fontSize":"20px",
             "location":{
               "x":63,
-              "y":160},
+              "y":159},
             "size":{
-              "width":295,
-              "height":22}},
+              "width":296,
+              "height":37}},
           "adaptiveStyles":{
 }},
 {
@@ -129,8 +129,8 @@
               "x":63,
               "y":205},
             "size":{
-              "width":295,
-              "height":22}},
+              "width":296,
+              "height":37}},
           "adaptiveStyles":{
 }},
 {
@@ -142,11 +142,11 @@
           "style":{
             "fontSize":"20px",
             "location":{
-              "x":64,
+              "x":63,
               "y":250},
             "size":{
-              "width":295,
-              "height":22}},
+              "width":296,
+              "height":37}},
           "adaptiveStyles":{
 }},
 {
@@ -158,11 +158,11 @@
           "style":{
             "fontSize":"20px",
             "location":{
-              "x":64,
+              "x":63,
               "y":296},
             "size":{
-              "width":295,
-              "height":22}},
+              "width":296,
+              "height":37}},
           "adaptiveStyles":{
 }},
 {
@@ -174,11 +174,11 @@
           "style":{
             "fontSize":"20px",
             "location":{
-              "x":64,
-              "y":383},
+              "x":63,
+              "y":384},
             "size":{
-              "width":295,
-              "height":22}},
+              "width":296,
+              "height":36}},
           "adaptiveStyles":{
 }},
 {
@@ -190,11 +190,11 @@
           "style":{
             "fontSize":"20px",
             "location":{
-              "x":64,
+              "x":63,
               "y":429},
             "size":{
-              "width":295,
-              "height":22}},
+              "width":296,
+              "height":37}},
           "adaptiveStyles":{
 }},
 {
@@ -206,11 +206,11 @@
           "style":{
             "fontSize":"20px",
             "location":{
-              "x":64,
-              "y":471},
+              "x":63,
+              "y":472},
             "size":{
-              "width":295,
-              "height":22}},
+              "width":296,
+              "height":39}},
           "adaptiveStyles":{
 }},
 {
@@ -226,7 +226,7 @@
               "y":339},
             "size":{
               "width":266,
-              "height":22}},
+              "height":34}},
           "adaptiveStyles":{
 }},
 {

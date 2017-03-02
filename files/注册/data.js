@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"注册.html",
-  "generationDate":new Date(1488188437220),
+  "generationDate":new Date(1488438989704.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -58,7 +58,7 @@
             "normal~":"images/注册/u0.jpg"}},
 {
           "id":"e2a7871182df4b9682b71ee57491bf82",
-          "label":"",
+          "label":"phonenum",
           "type":"textBox",
           "styleType":"textBox",
           "visible":true,
@@ -70,10 +70,58 @@
               "width":200,
               "height":40}},
           "adaptiveStyles":{
-}},
+},
+          "interactionMap":{
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set text on phonenum equal to &quot;&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e2a7871182df4b9682b71ee57491bf82"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]}]}}]}]},
+            "onLostFocus":{
+              "description":"OnLostFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set text on phonenum equal to &quot;请输入手机号&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e2a7871182df4b9682b71ee57491bf82"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"请输入手机号",
+                                "stos":[]}]}]}}]}]}},
+          "tabbable":true},
 {
           "id":"b7d365f4ee0f485aaed8482b672cf2d7",
-          "label":"",
+          "label":"yanzhengma",
           "type":"textBox",
           "styleType":"textBox",
           "visible":true,
@@ -85,10 +133,58 @@
               "width":169,
               "height":40}},
           "adaptiveStyles":{
-}},
+},
+          "interactionMap":{
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set text on yanzhengma equal to &quot;&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["b7d365f4ee0f485aaed8482b672cf2d7"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]}]}}]}]},
+            "onLostFocus":{
+              "description":"OnLostFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set text on yanzhengma equal to &quot;请输入验证码&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["b7d365f4ee0f485aaed8482b672cf2d7"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"请输入验证码",
+                                "stos":[]}]}]}}]}]}},
+          "tabbable":true},
 {
           "id":"4e33666123c446f4b7418194c5aff85a",
-          "label":"",
+          "label":"passwd",
           "type":"textBox",
           "styleType":"textBox",
           "visible":true,
@@ -100,10 +196,58 @@
               "width":169,
               "height":40}},
           "adaptiveStyles":{
-}},
+},
+          "interactionMap":{
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set text on passwd equal to &quot;&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["4e33666123c446f4b7418194c5aff85a"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]}]}}]}]},
+            "onLostFocus":{
+              "description":"OnLostFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set text on passwd equal to &quot;请输入密码&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["4e33666123c446f4b7418194c5aff85a"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"请输入密码",
+                                "stos":[]}]}]}}]}]}},
+          "tabbable":true},
 {
           "id":"728f6d40885c434992b965c949a45f15",
-          "label":"",
+          "label":"cfmm",
           "type":"textBox",
           "styleType":"textBox",
           "visible":true,
@@ -115,10 +259,58 @@
               "width":169,
               "height":40}},
           "adaptiveStyles":{
-}},
+},
+          "interactionMap":{
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set text on cfmm equal to &quot;&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["728f6d40885c434992b965c949a45f15"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]}]}}]}]},
+            "onLostFocus":{
+              "description":"OnLostFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set text on cfmm equal to &quot;请再次输入密码&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["728f6d40885c434992b965c949a45f15"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"请再次输入密码",
+                                "stos":[]}]}]}}]}]}},
+          "tabbable":true},
 {
           "id":"516c1f4697344c758513f292c595e436",
-          "label":"",
+          "label":"yanzhengyouxiang",
           "type":"textBox",
           "styleType":"textBox",
           "visible":true,
@@ -130,7 +322,55 @@
               "width":169,
               "height":40}},
           "adaptiveStyles":{
-}},
+},
+          "interactionMap":{
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set text on yanzhengyouxiang equal to &quot;&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["516c1f4697344c758513f292c595e436"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]}]}}]}]},
+            "onLostFocus":{
+              "description":"OnLostFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"Set text on yanzhengyouxiang equal to &quot;请输入验证邮箱&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["516c1f4697344c758513f292c595e436"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"请输入验证邮箱",
+                                "stos":[]}]}]}}]}]}},
+          "tabbable":true},
 {
           "id":"31ffbbe450894a5ea930fb0248613d7a",
           "label":"",
@@ -168,12 +408,12 @@
           "styleType":"checkbox",
           "visible":true,
           "style":{
-            "fontSize":"16px",
+            "fontSize":"28px",
             "location":{
               "x":11,
               "y":464},
             "size":{
-              "width":10,
+              "width":19,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -185,12 +425,12 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontSize":"16px",
+                "fontSize":"28px",
                 "location":{
                   "x":11,
                   "y":464},
                 "size":{
-                  "width":10,
+                  "width":19,
                   "height":16}},
               "adaptiveStyles":{
 }}]}]}},
