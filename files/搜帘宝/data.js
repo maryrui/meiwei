@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"搜帘宝.html",
-  "generationDate":new Date(1488590935786.87),
+  "generationDate":new Date(1488591170349.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -340,13 +340,17 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"12px",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
             "location":{
               "x":65,
               "y":158},
             "size":{
               "width":296,
-              "height":37}},
+              "height":32}},
           "adaptiveStyles":{
 }},
 {
@@ -356,13 +360,17 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"12px",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
             "location":{
               "x":65,
               "y":204},
             "size":{
               "width":296,
-              "height":37}},
+              "height":32}},
           "adaptiveStyles":{
 }},
 {
@@ -372,13 +380,17 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"12px",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
             "location":{
               "x":65,
               "y":248},
             "size":{
               "width":296,
-              "height":37}},
+              "height":32}},
           "adaptiveStyles":{
 }},
 {
@@ -388,13 +400,17 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"12px",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
             "location":{
               "x":65,
               "y":294},
             "size":{
               "width":296,
-              "height":37}},
+              "height":32}},
           "adaptiveStyles":{
 }},
 {
@@ -404,13 +420,17 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"12px",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
             "location":{
               "x":65,
               "y":382},
             "size":{
               "width":296,
-              "height":36}},
+              "height":32}},
           "adaptiveStyles":{
 }},
 {
@@ -420,13 +440,17 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"12px",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
             "location":{
               "x":65,
               "y":428},
             "size":{
               "width":296,
-              "height":37}},
+              "height":32}},
           "adaptiveStyles":{
 }},
 {
@@ -436,13 +460,17 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"12px",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
             "location":{
               "x":65,
               "y":470},
             "size":{
               "width":296,
-              "height":39}},
+              "height":32}},
           "adaptiveStyles":{
 }},
 {
@@ -452,13 +480,17 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"12px",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
             "location":{
               "x":95,
               "y":338},
             "size":{
               "width":266,
-              "height":34}},
+              "height":32}},
           "adaptiveStyles":{
 }}]}},
   "masters":{
