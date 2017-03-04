@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"搜帘宝.html",
-  "generationDate":new Date(1488439924431.81),
+  "generationDate":new Date(1488590451329.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -340,7 +340,7 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"24px",
+            "fontSize":"18px",
             "location":{
               "x":65,
               "y":158},
@@ -356,7 +356,7 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"24px",
+            "fontSize":"18px",
             "location":{
               "x":65,
               "y":204},
@@ -372,7 +372,7 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"24px",
+            "fontSize":"18px",
             "location":{
               "x":65,
               "y":248},
@@ -388,7 +388,7 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"24px",
+            "fontSize":"18px",
             "location":{
               "x":65,
               "y":294},
@@ -404,7 +404,7 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"24px",
+            "fontSize":"18px",
             "location":{
               "x":65,
               "y":382},
@@ -420,7 +420,7 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"24px",
+            "fontSize":"18px",
             "location":{
               "x":65,
               "y":428},
@@ -436,7 +436,7 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"24px",
+            "fontSize":"18px",
             "location":{
               "x":65,
               "y":470},
@@ -452,7 +452,7 @@
           "styleType":"comboBox",
           "visible":true,
           "style":{
-            "fontSize":"24px",
+            "fontSize":"18px",
             "location":{
               "x":95,
               "y":338},
